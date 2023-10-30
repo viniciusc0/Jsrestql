@@ -1,0 +1,8 @@
+{
+  "apis": {
+    "testeApi": "https://api.themoviedb.org",
+    "testePath": "/3/movie/11",
+    "teste2Api": "https://loripsum.net",
+    "teste2Path": "/api"
+  }
+}
